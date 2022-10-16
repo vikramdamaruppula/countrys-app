@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+}
+.inner-container {
+  background-color: #ffffff;
+  padding: 30px 50px 30px 50px;
+  border-radius: 20px;
+}
+
+.answer {
+  color: light violet;
+  font-family: cursive;
+}
